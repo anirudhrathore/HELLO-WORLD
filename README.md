@@ -19,7 +19,7 @@ Questions can be asked by raising an `Issue`.
 - Using git on your local machine. Do this to download the forked copy of this repo to your computer
 
 ```
-  git clone https://github.com/yourGitHubUsername/HELLO-WORLD.git
+  git clone https://github.com/anirudhrathore/HELLO-WORLD.git
 ```
 
 - switch to the cloned folder. This can be done with Git Bash or the integrated terminal in the VSCode editor
